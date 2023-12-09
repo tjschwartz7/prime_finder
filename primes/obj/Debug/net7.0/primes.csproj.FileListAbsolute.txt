@@ -1,0 +1,15 @@
+C:\Users\tjsch\source\repos\primes\primes\bin\Debug\net7.0\primes.exe
+C:\Users\tjsch\source\repos\primes\primes\bin\Debug\net7.0\primes.deps.json
+C:\Users\tjsch\source\repos\primes\primes\bin\Debug\net7.0\primes.runtimeconfig.json
+C:\Users\tjsch\source\repos\primes\primes\bin\Debug\net7.0\primes.dll
+C:\Users\tjsch\source\repos\primes\primes\bin\Debug\net7.0\primes.pdb
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\primes.csproj.AssemblyReference.cache
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\primes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\primes.AssemblyInfoInputs.cache
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\primes.AssemblyInfo.cs
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\primes.csproj.CoreCompileInputs.cache
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\primes.dll
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\refint\primes.dll
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\primes.pdb
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\primes.genruntimeconfig.cache
+C:\Users\tjsch\source\repos\primes\primes\obj\Debug\net7.0\ref\primes.dll
