@@ -95,6 +95,8 @@ class PrimeFunction
                 //Mark off as NOT prime
                 intIsNotPrime[iter] = true;
             }
+
+            //We don't want to double count our current prime number - hence do_while
             do
             {
                 p++;
